@@ -13,7 +13,7 @@ public class Logger {
     
     public Logger() {
         this.level = 3;
-    }
+        }
     
     public void setLevel(int lvl) {
         if (lvl <= 0)
